@@ -597,6 +597,9 @@
 .home-doctors-tiles .row > div {
   margin-bottom: 60px;
 }
+.home-doctors-tiles h2 {
+  text-align: center;
+}
 .btn-border {
   display: -ms-inline-flexbox;
   display: inline-flex;
